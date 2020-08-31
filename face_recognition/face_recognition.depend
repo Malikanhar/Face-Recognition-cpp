@@ -793,3 +793,16 @@
 	<vector>
 	"opencv2/imgproc.hpp"
 
+1598883677 source:d:\materi kuliah tel-u\job application\widya robotics\face-recognition-cpp\face_recognition\main.cpp
+	"util.h"
+
+1598884582 d:\materi kuliah tel-u\job application\widya robotics\face-recognition-cpp\face_recognition\util.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<opencv2/opencv.hpp>
+	<opencv2/face.hpp>
+
+1598884572 source:d:\materi kuliah tel-u\job application\widya robotics\face-recognition-cpp\face_recognition\util.cpp
+	"util.h"
+
